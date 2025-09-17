@@ -186,8 +186,6 @@ def save_and_upload_result(
 
 
 def main():
-
-    
     # task = create_clearml_task(
     #     task_name="Test ClearML Rerun",
     #     tag="blackwell-bridgedepth",
